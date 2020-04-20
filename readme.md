@@ -2,4 +2,7 @@
 
 The required datasets are downloadble from (Thomas Camminady's github)[https://github.com/camminady/NetflixChallenge]. 
 
+The Notebook "knn_approach" is supplied with a trained dataset, given by "nn_per_user.txt"
+
 Everything else is explained in the notebooks. 
+
